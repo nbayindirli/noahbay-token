@@ -7,7 +7,7 @@ networks:
       accounts: 10
       mnemonic: brownie
       fork: https://eth-mainnet.alchemyapi.io/v2/$ALCHEMY_NOAHBAY_TOKEN_API_TOKEN
-      default_balance: 420 ether
+      default_balance: 250 ether
       chain_id: 1
 
 dependencies:
