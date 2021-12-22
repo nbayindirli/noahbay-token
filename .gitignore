@@ -4,3 +4,4 @@ __pycache__
 .hypothesis/
 .idea/
 .README.md.swp
+build

@@ -4,6 +4,10 @@ The official `$NOAHBAY` token repository.
 
 ---
 
+#### NOAHBAY Token on Etherscan: https://rinkeby.etherscan.io/token/0x825BDaC88Cc1B8714dDa26aB11b17Aa178cF1cbe
+
+---
+
 For those cloning...
 * Prior to compiling, create an app instance on Alchemy, Infura, etc.
 * Copy the generated API key from the console
