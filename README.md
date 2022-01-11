@@ -1,6 +1,6 @@
 # noahbay-token (NOAHBAY) 🪙
 
-The official `$NOAHBAY` token repository.
+The official* `$NOAHBAY` token repository.
 
 ---
 
@@ -17,3 +17,7 @@ For those cloning...
   * e.g. `fork: https://eth-mainnet.alchemyapi.io/v2/$ALCHEMY_NOAHBAY_TOKEN_API_TOKEN`
 
 You should now be able to run `brownie compile && brownie console --network mainnet-fork`.
+
+---
+
+*official-ly for playing around with smart contracts
